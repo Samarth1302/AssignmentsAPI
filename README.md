@@ -1,6 +1,6 @@
 Classroom Assignments API built for users (students and teachers) to facilitate assignment submission and grading process. Teachers create, update, delete assignments and students can post their submissions based on the assignment posted. Teachers can then view submissions to created assignments and students can review all of their submissions. All the requests require JWT token (bearer token) for authentication of user.
 
-Usage- Replace http://127.0.0.1:3000 or http://localhost:3000 with https://assignments-api.onrender.com based on how you access the API. While using the docker image or hosted API service it is important to replace the URL path with the hosted URL and send requests only to that URL.
+Usage- Replace http://127.0.0.1:3000 or http://localhost:3000 with https://assignments-api.onrender.com based on how you access the API.
 
 Hosted URL on Render- https://assignments-api.onrender.com
 
