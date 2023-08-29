@@ -12,9 +12,9 @@ or simply run the commands-
 1. docker pull samarthchauhan/classroom
 2. docker run -p 3000:3000 samarthchauhan/classroom
 
+<!--
 Some registered (username password role) for users are given below for testing-
 
-<!--
 person per123 student
 par pa2 teacher
 stude12 st23 student
