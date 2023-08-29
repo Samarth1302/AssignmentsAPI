@@ -6,7 +6,7 @@ require("dotenv").config();
 async function register(req, res) {
   const { email, username, password, role } = req.body;
 
-  if (!username || !password || !role ) {
+  if (!username || !password || !role) {
     return res.status(400).json({ error: "Fields cannot be empty" });
   }
 
